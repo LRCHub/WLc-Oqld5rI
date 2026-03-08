@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏が僕らを呼ぶのなら(Live at SUPERNOVA KAWASAKI,2025/01/11)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-03-08T08:57:25.385862Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏が僕らを呼ぶのなら",
+      "artist": "*Luna feat. わかばやし",
+      "has_synced": false,
+      "path": "select/pl_01_夏が僕らを呼ぶのなら_Luna_feat._わかばやし.txt"
+    }
+  ]
+}
